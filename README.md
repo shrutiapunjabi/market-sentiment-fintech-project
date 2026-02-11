@@ -29,7 +29,7 @@ Python, Pandas, NumPy, NLTK, VADER, Scikit-learn, Matplotlib
 
 ## 👤 Author
 Shruti Avinash Punjabi
-MSc in Financial Data Science
-UCD Michael Smurfit School of Business
+/MSc in Financial Data Science
+/UCD Michael Smurfit School of Business
 
 
